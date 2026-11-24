@@ -19,7 +19,7 @@ import localGuitars from './guitars.json';
 // STEP 2 (optional but recommended): host guitars.json on GitHub and paste
 // the RAW link here. While this is empty, the app uses the local guitars.json
 // so you can run it right away.
-const API_URL = '';
+const API_URL = 'https://raw.githubusercontent.com/JustineSuiza/guitarshop-api/main/guitars.json';
 // Example:
 // const API_URL = 'https://raw.githubusercontent.com/yourname/guitar-api/main/guitars.json';
 
