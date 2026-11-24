@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Stratocaster Player", "brand": "Fender", "type": "Electric", "price": 42500, "inStock": true, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Fender_Stratocaster.jpg/500px-Fender_Stratocaster.jpg" },
+  { "id": 2, "name": "Les Paul Standard", "brand": "Gibson", "type": "Electric", "price": 128000, "inStock": true, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Gibson_Les_Paul_03.jpg/500px-Gibson_Les_Paul_03.jpg" },
+  { "id": 3, "name": "FG800 Dreadnought", "brand": "Yamaha", "type": "Acoustic", "price": 16500, "inStock": true, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Yamaha_FG403S_Dreadnought_Style_Acoustic_Guitar_%282002%29.jpg/500px-Yamaha_FG403S_Dreadnought_Style_Acoustic_Guitar_%282002%29.jpg" },
+  { "id": 4, "name": "D-28 Standard", "brand": "Martin", "type": "Acoustic", "price": 135000, "inStock": false, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Martin_D-28_Acoustic_Guitar.jpg/500px-Martin_D-28_Acoustic_Guitar.jpg" },
+  { "id": 5, "name": "SE Custom 24", "brand": "PRS", "type": "Electric", "price": 52000, "inStock": true, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PRS_Custom_24_%282012-11-11_04.38.18_by_sbaimo%29.jpg/500px-PRS_Custom_24_%282012-11-11_04.38.18_by_sbaimo%29.jpg" },
+  { "id": 6, "name": "Jazzmaster Vintera", "brand": "Squier", "type": "Electric", "price": 28500, "inStock": true, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Fender_Jazzmaster_red_noBG.jpg/500px-Fender_Jazzmaster_red_noBG.jpg" },
+  { "id": 7, "name": "CD-60S Dreadnought", "brand": "Fender", "type": "Acoustic", "price": 12500, "inStock": true, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Acoustic_guitar.jpg/500px-Acoustic_guitar.jpg" },
+  { "id": 8, "name": "Classical C40", "brand": "Yamaha", "type": "Classical", "price": 7800, "inStock": true, "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Classical_Guitar.jpg/500px-Classical_Guitar.jpg" }
+]
